@@ -1,0 +1,138 @@
+Air India 
+AI - 4218
+OW - 1 Traveller - 14 July 2026 (Direct flight)(Partially Refundable)
+
+0: {Productcalss: "ECO VALUE", Journeykey: "DXB-BOM,4218,AI,2026-07-14,E", FareType: "ECO VALUE",…}
+Amenities: {Seat Selection: "T|PRE RESERVED SEAT ASSIGNMENT", Meal: "T|CHARGEABLE VEG MEAL",…}
+Baggage: "25 Kg"
+Cancellation: "R|REFUNDABLE TICKET"
+Date Change: "R|CHANGEABLE TICKET"
+Meal: "T|CHARGEABLE VEG MEAL"
+NoShow: "D|NO SHOW FEE"
+Seat Selection: "T|PRE RESERVED SEAT ASSIGNMENT"
+Upgrade: "C|UPGRADE"
+Amount: 1405
+FareType: "ECO VALUE"
+Index: "A-SB|327-R1"
+Journeykey: "DXB-BOM,4218,AI,2026-07-14,E"
+PaxCategory: "ADT"
+Productcalss: "ECO VALUE"
+
+
+brandName": "ECO VALUE"
+id": 4
+fareAmount": 284.48
+publishedFareAmount": 1045
+
+ "availabilityBreak": true  -----Doubt
+ 
+ "brandFeatures": [
+                              {
+                                "ref": 3
+                              },
+                              {
+                                "ref": 5
+                              },
+                              {
+                                "ref": 6
+                              },
+                              {
+                                "ref": 1
+                              },
+                              {
+                                "ref": 4
+                              },
+                              {
+                                "ref": 7
+                              },
+                              {
+                                "ref": 8
+                              }
+                            ]
+                            
+   {
+        "id": 3,
+        "application": "F",
+        "serviceType": "F",
+        "serviceGroup": "SA",
+        "subCode": "0B5",
+        "vendor": "ATP",
+        "commercialName": "PRE RESERVED SEAT ASSIGNMENT"
+      },
+      
+       {
+        "id": 5,
+        "application": "F",
+        "serviceType": "F",
+        "serviceGroup": "ML",
+        "subCode": "0B3",
+        "vendor": "ATP",
+        "commercialName": "CHARGEABLE VEG MEAL"
+      }
+      
+      {
+        "id": 6,
+        "application": "F",
+        "serviceType": "Z",
+        "serviceGroup": "BF",
+        "subCode": "059",
+        "vendor": "ATP",
+        "commercialName": "CHANGEABLE TICKET"
+      }
+      
+       {
+        "id": 1,
+        "application": "C",
+        "serviceType": "Z",
+        "serviceGroup": "BF",
+        "subCode": "056",
+        "vendor": "ATP",
+        "commercialName": "REFUNDABLE TICKET"
+      }
+      
+      {
+        "id": 4,
+        "application": "D",
+        "serviceType": "F",
+        "serviceGroup": "TS",
+        "subCode": "0NN",
+        "vendor": "ATP",
+        "commercialName": "NO SHOW FEE"
+      },                                          ----------------------------------❓️
+   
+      {
+        "id": 7,
+        "application": "F",
+        "serviceType": "Z",
+        "serviceGroup": "BF",
+        "subCode": "P01",
+        "vendor": "ATP",
+        "commercialName": "FREE CHECKED BAGGAGE ALLOWANCE"
+      }    
+                
+      {
+        "id": 8,
+        "application": "C",
+        "serviceType": "F",
+        "serviceGroup": "UP",
+        "subCode": "0BJ",
+        "vendor": "ATP",
+        "commercialName": "UPGRADE"
+      }   
+      
+      
+      
+      
+      
+      
+      
+FBC: "QL3YXSDX"
+FUID: "1"
+FlightNo: "4218"    
+
+
+GrossFare: 1405
+NetFare: 1365                         
+
+
+TransactionID : 260348951         
